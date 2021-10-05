@@ -1,0 +1,15 @@
+.service-container{
+    display: flex;
+    padding: 50px;
+}
+.service{
+    border-radius: 20px;
+    background-color: rgb(158, 158, 158);
+}
+.image{
+    height: 200px;
+    border-radius: 20px;
+}
+.service-text{
+    color: bisque;
+}

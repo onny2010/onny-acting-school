@@ -1,0 +1,27 @@
+.banner-container{
+    background-image: url('../../images/hero_home_05.jpg');
+    height: 600px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+}
+.title{
+    padding-top: 30px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 60px;
+}
+p{
+    color: rgb(132, 198, 255);
+}
+.about-btn{
+    background-color: rgb(3, 20, 92);
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 17px 34px;
+    color: rgb(253, 253, 253);
+    font-weight: 700;
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Fully licensed Actors",
+        "code": "001",
+        "img": "https://mycourses.co.za/wp-content/uploads/2020/01/theatre-play.jpeg",
+        "description": "actors who are passionate, hard working and committed to an acting career. These actors have training and experience with considerable credits on their cv. These actors can be considered for acting work only (no extras)"
+    },
+    {
+        "name": "Probationary Actors",
+        "code": "002",
+        "img": "http://tabula.bold-themes.com/shady/wp-content/uploads/sites/4/2019/06/post_18-1280x800.jpg",
+        "description": "actors who are passionate, keen and still a bit green. They have attended acting classes for at least a year, are skilled but still need to build up their experience. They are looking for acting work but may also do some modelling and extras work while they are building their CV."
+    },
+    {
+        "name": "Learners ",
+        "code": "003",
+        "img": "https://www.zip06.com/apps/pbcsi.dll/bilde?Site=Z6&Date=20170418&Category=MEDIA02&ArtNo=418009991&Ref=PH&Item=1&NewTbl=1&maxH=500",
+        "description": "these actors have less than a year of training, are very new to the industry but have great attitudes and a willingness to learn. They can be considered for commercials, modelling and extras work"
+    }
+]

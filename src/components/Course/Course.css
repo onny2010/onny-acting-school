@@ -1,0 +1,11 @@
+.card-container{
+    display: flex;
+    padding: 50px;
+}
+.card-image{
+    border-radius: 20px;
+}
+.course{
+    border-radius: 20px;
+    background-color: rgb(49, 49, 49);
+}
